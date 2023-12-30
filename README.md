@@ -23,6 +23,7 @@ Forming a line of more than five stones is not allowed. A player wins as soon as
 <br>
 Draw:<br>
 If the entire board is filled and no player has connected five stones, the game is a draw.<br>
+<br>
 Game End:<br>
 The game concludes when a player wins by connecting five stones or when a draw is declared.<br>
 <br>
